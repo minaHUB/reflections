@@ -8,7 +8,7 @@ was introduced?
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-when ever you want to add change any feature you can easily access it
+  when ever you want to add change any feature you can easily access it
 
 
 What do you think are the pros and cons of manually choosing when to create a
@@ -21,7 +21,7 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+    because in some cases
 
 How can you use the commands git log and git diff to view the history of files?
 
@@ -30,7 +30,7 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    because i will not fear to damage the project
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
