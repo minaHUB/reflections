@@ -3,3 +3,8 @@ if i want to share my work with others or i want to backup it for safety purpose
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 inorder only to have commits that make sense rather than having too many commits
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks: used to make a copy of another repository onto your account on github 
+clones: used to make a copy of another repository onto your local disk
+branches: to make changes in the repository it self if i want to make a new feature or make others share in my work without affecting mine
